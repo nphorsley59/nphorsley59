@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi! My name is Noah Horsley. I'm a junior data scientist who enjoys solving difficult problems and learning new skills. My background is in research, ecology specifically, but I have many interests and enjoy how applicable data science is to a wide variety of fields.
 
 <!--
 **nphorsley59/nphorsley59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
