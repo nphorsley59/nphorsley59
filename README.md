@@ -1,4 +1,4 @@
-Hi! My name is Noah Horsley. I'm a junior data scientist who enjoys learning new skills, solving difficult problems, and using data to communicate ideas. My background is in research, but I have many interests and enjoy how applicable data science is to a wide variety of fields. I recently graduated with a M.S. from the University of Illinois and am looking for entry-level work. Check out my [portfolio](https://github.com/nphorsley59/PORTFOLIO) to see some of the cool projects I've completed recently!
+Hi! My name is Noah Horsley. I'm a junior data scientist who enjoys learning new skills, solving difficult problems, and using data to communicate ideas. My background is in research and I have many additional interests. I enjoy how applicable data science is to a wide variety of fields. I recently graduated with a M.S. from the University of Illinois and am looking for entry-level work. Check out my [portfolio](https://github.com/nphorsley59/PORTFOLIO) to see some of the cool projects I've completed recently!
 
 <!--
 **nphorsley59/nphorsley59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
