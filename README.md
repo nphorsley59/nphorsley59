@@ -1,4 +1,4 @@
-Hi! My name is Noah Horsley. I am a Python developer with specialization in data science and data systems. My background is in statistics and quantitative research. I enjoy learning new skills, solving difficult problems, and generating value from data.
+Hi!  I am a Python developer with specialization in data science and data systems. My background is in statistics and quantitative research.  I enjoy learning new skills, solving difficult problems, and generating value from data.
 
 <!--
 **nphorsley59/nphorsley59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
