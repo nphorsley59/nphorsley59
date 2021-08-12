@@ -1,4 +1,4 @@
-Hi!  My name is Noah and I'm a data scientist.  I specialize in helping businesses extract value from their data.  My background is in quantitative research and I currently work at a startup that is pioneering the field of socially responsible investing.  I am at my best when my work is a mix of solving difficult problems, learning new skills, and collaborating with a team.  The best way to reach me is via email: nphorsley59@gmail.com.
+Hi!  My name is Noah and I'm a data scientist.  I specialize in helping businesses extract value from their data.  My background is in quantitative research and I currently work at a startup that is working to make socially responsible investing easy and accessible.  I am at my best when my work is a mix of solving difficult problems, learning new skills, and collaborating with a team.  The best way to reach me is via email: nphorsley59@gmail.com.
 
 <!--
 **nphorsley59/nphorsley59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
