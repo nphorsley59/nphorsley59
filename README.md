@@ -1,4 +1,6 @@
-Hi! :wave: My name is Noah and I specialize in helping businesses manage and extract value from their data.  I am at my best when my work is a mix of solving difficult problems, learning new skills, and collaborating with others.  You can reach me at 📫 nphorsley59@gmail.com.
+Hi! :wave: My name is Noah and I specialize in helping businesses manage and extract value from their data.  I am at my best when my work is a mix of solving difficult problems, learning new skills, and collaborating with others.  
+
+You can reach me at 📫 nphorsley59@gmail.com.
 
 <!--
 **nphorsley59/nphorsley59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
