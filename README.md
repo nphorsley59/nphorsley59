@@ -1,4 +1,4 @@
-Hi! :wave: My name is Noah and I specialize in helping businesses manage and extract value from their data.  I am at my best when my work environment is a mix of solving difficult problems, learning new skills, and collaborating with others.  
+Hi! :wave: My name is Noah and I specialize in helping businesses manage and extract value from their data.  I work best in an environment that challenges me to solve difficult problems, learn new skills, and collaborate with others.  
 
 You can reach me at 📫 nphorsley59@gmail.com.
 
