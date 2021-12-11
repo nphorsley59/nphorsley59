@@ -1,4 +1,4 @@
-I specialize in helping businesses manage and extract value from their data.  I work best in an environment that challenges me to solve difficult problems, learn new skills, and collaborate with others.  
+I specialize in helping businesses manage and extract value from their data resources.  I work best in an environment that challenges me to solve difficult problems, learn new skills, and collaborate with others.  
 
 You can reach me at 📫 nphorsley59@gmail.com.
 
