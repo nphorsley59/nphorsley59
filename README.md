@@ -1,4 +1,4 @@
-I specialize in helping businesses use AI technologies to extract value from their data resources.  I work best in an environment that challenges me to solve difficult problems, learn new skills, and collaborate with others.  
+Hi! I'm a self-taught engineer and I have a passion for using technology to help businesses build incredible products.
 
 You can reach me at 📫 nphorsley59@gmail.com.
 
